@@ -144,7 +144,6 @@ namespace imagseln
 
             Console.WriteLine("Informe o site da olx onde deseja pesquisar");
             urlFiltrada= Console.ReadLine();
-
          
             drver.Url=urlFiltrada;
 
